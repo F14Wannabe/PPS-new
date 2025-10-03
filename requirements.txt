@@ -6,4 +6,4 @@ google-auth-oauthlib
 oauth2client
 plotly
 joblib
-scikit-learn
+scikit-learn==1.6.1
