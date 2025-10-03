@@ -1,0 +1,9 @@
+streamlit
+pandas
+gspread
+google-auth
+google-auth-oauthlib
+oauth2client
+plotly
+joblib
+scikit-learn
